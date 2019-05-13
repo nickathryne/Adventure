@@ -1,0 +1,7 @@
+GRATE=OutsideGrate
+EGG=EastSix
+PAPER=EastSix
+NOTE=NuggetRoom
+SNAKE=HallOfTheMountainKing1
+MIRROR=MirrorRoom
+ROCK=BrokenRock
